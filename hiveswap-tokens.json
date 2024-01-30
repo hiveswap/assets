@@ -1,0 +1,39 @@
+{
+    "name": "HiveSwap Token",
+    "timestamp": "2024-01-29T03:12:39.711Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/hive.png",
+    "keywords": [
+        "hiveswap"
+    ],
+    "tokens": [
+        {
+            "name": "LessGas Token",
+            "symbol": "LSGS",
+            "address": "0x756AF1d3810a01D3292faD62f295BbcC6C200AeA",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/lsgs.png"
+        },
+        {
+            "name": "Rolluper Token",
+            "symbol": "ROUP",
+            "address": "0x5a1c3f3aaE616146C7b9bf9763E0ABA9bAFc5eaE",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/roup.png"
+        },
+        {
+            "name": "MMQQ Token",
+            "symbol": "MMQQ",
+            "address": "0x5A91ca4004AdA972d50edc5C012080b3158219b1",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/mmqq.png"
+        }
+    ]
+}
