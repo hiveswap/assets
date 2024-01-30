@@ -36,8 +36,8 @@
             "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/mmqq.png"
         },
         {
-            "name": "$JMS Token",
-            "symbol": "$JMS",
+            "name": "JMS Token",
+            "symbol": "JMS",
             "address": "0x13059981f81bee8bfa656ed519cb57ac5ef7ff81",
             "chainId": 22776,
             "decimals": 18,
