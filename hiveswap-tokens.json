@@ -34,6 +34,22 @@
             "chainId": 22776,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/mmqq.png"
+        },
+        {
+            "name": "$JMS Token",
+            "symbol": "$JMS",
+            "address": "0x13059981f81bee8bfa656ed519cb57ac5ef7ff81",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/jms.png"
+        },
+        {
+            "name": "Bitskill Metaverse Token",
+            "symbol": "T88",
+            "address": "0xed23134a11106eee505425f9f7ce322d38ec323b",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/t88.png"
         }
     ]
 }
