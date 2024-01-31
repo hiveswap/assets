@@ -20,12 +20,12 @@
             "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/usdt.png"
         },
         {
-            "name": "MAPO",
-            "symbol": "MAPO",
+            "name": "Wrapped MAPO",
+            "symbol": "WMAPO",
             "address": "0x13CB04d4a5Dfb6398Fc5AB005a6c84337256eE23",
             "chainId": 22776,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/mapo.png"
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/wmapo.png"
         },
         {
             "name": "Wrapped Ether",
