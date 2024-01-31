@@ -12,6 +12,30 @@
     ],
     "tokens": [
         {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "address": "0x33DAba9618a75a7AFf103e53AfE530FbAcF4A3DD",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/usdt.png"
+        },
+        {
+            "name": "MAPO",
+            "symbol": "USDT",
+            "address": "0x13CB04d4a5Dfb6398Fc5AB005a6c84337256eE23",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/mapo.png"
+        },
+        {
+            "name": "Wrapped Ether",
+            "symbol": "ETH",
+            "address": "0x05aB928d446d8ce6761e368c8e7bE03C3168A9ec",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/eth.png"
+        },
+        {
             "name": "LessGas Token",
             "symbol": "LSGS",
             "address": "0x756AF1d3810a01D3292faD62f295BbcC6C200AeA",
