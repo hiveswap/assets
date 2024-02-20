@@ -74,6 +74,14 @@
             "chainId": 22776,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/t88.png"
+        },
+        {
+            "name": "MELS Token",
+            "symbol": "MELS",
+            "address": "0xa086f79df65cae77240ac0529541a23368f03c25",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/default.png"
         }
     ]
 }
