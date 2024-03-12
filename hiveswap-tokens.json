@@ -82,6 +82,14 @@
             "chainId": 22776,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/default.png"
+        },
+        {
+            "name": "stMAPO",
+            "symbol": "stMAPO",
+            "address": "0x9bd1e0a3a727d0d4f4e9a6d59022e071ddc79924",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://map-static-file.s3.amazonaws.com/verifyContractIcon/stMapo.png"
         }
     ]
 }
