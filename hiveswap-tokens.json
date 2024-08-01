@@ -89,7 +89,7 @@
             "address": "0x9bd1e0a3a727d0d4f4e9a6d59022e071ddc79924",
             "chainId": 22776,
             "decimals": 18,
-            "logoURI": "https://map-static-file.s3.amazonaws.com/verifyContractIcon/stMapo.png"
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/stmapo.png"
         },
         {
             "name": "HiveSwap Token",
@@ -97,7 +97,7 @@
             "address": "0x69c43364667cf6279016bbec76445174c78f142d",
             "chainId": 22776,
             "decimals": 18,
-            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/hivp.png"
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/hivp.png"
         },
         {
             "name": "Solv BTC",
@@ -105,7 +105,7 @@
             "address": "0x7eb8b1fe3ee3287fd5864e50f32322ce3285b39d",
             "chainId": 22776,
             "decimals": 18,
-            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/solvbtc.png"
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/solvbtc.png"
         },
         {
             "name": "EEAA",
@@ -113,7 +113,7 @@
             "address": "0x040a66ed7def1c037c5c9848bc5d44dcd3b0fc62",
             "chainId": 22776,
             "decimals": 18,
-            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eeaa.png"
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/eeaa.png"
         },
         {
             "name": "FOX2",
@@ -121,7 +121,7 @@
             "address": "0x1ddecb7126028ea347408edef9d218f74b226d22",
             "chainId": 22776,
             "decimals": 18,
-            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/fox2.png"
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/fox2.png"
         },
         {
             "name": "Merlin's Seal BTC",
@@ -129,7 +129,7 @@
             "address": "0x1d22c0ab633f393c84a98cf4f2fad10ba47bb7b3",
             "chainId": 22776,
             "decimals": 18,
-            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg"
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/m-btc.png"
         },
         {
             "name": "Mapped Bitcoin",
@@ -137,7 +137,7 @@
             "address": "0xb877e3562a660c7861117c2f1361a26abaf19beb",
             "chainId": 22776,
             "decimals": 18,
-            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btc.png"
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/btc.png"
         },
         {
             "name": "iZUMi Bond USD",
@@ -145,7 +145,7 @@
             "address": "0x61899ce1396ff351e5fdb9c8ad36fee9411c73c2",
             "chainId": 22776,
             "decimals": 18,
-            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/iusd.png"
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/iusd.png"
         },
         {
             "name": "STST (brc-20)",
@@ -153,7 +153,7 @@
             "address": "0xf5a59f961a8e86285dae2e45ac4ae50e4e47ba97",
             "chainId": 22776,
             "decimals": 18,
-            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/stst.png"
+            "logoURI": "https://raw.githubusercontent.com/hiveswap/assets/main/stst.png"
         }
     ]
 }
