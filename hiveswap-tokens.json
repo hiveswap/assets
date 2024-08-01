@@ -90,6 +90,78 @@
             "chainId": 22776,
             "decimals": 18,
             "logoURI": "https://map-static-file.s3.amazonaws.com/verifyContractIcon/stMapo.png"
+        },
+        {
+            "name": "HiveSwap Token",
+            "symbol": "HIVP",
+            "address": "0x69c43364667cf6279016bbec76445174c78f142d",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/hivp.png"
+        },
+        {
+            "name": "Solv BTC",
+            "symbol": "SolvBTC",
+            "address": "0x7eb8b1fe3ee3287fd5864e50f32322ce3285b39d",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/solvbtc.png"
+        },
+        {
+            "name": "Solv BTC",
+            "symbol": "SolvBTC",
+            "address": "0x7eb8b1fe3ee3287fd5864e50f32322ce3285b39d",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/solvbtc.png"
+        },
+        {
+            "name": "EEAA",
+            "symbol": "EEAA",
+            "address": "0x040a66ed7def1c037c5c9848bc5d44dcd3b0fc62",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eeaa.png"
+        },
+        {
+            "name": "FOX2",
+            "symbol": "FOX2",
+            "address": "0x1ddecb7126028ea347408edef9d218f74b226d22",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/fox2.png"
+        },
+        {
+            "name": "Merlin's Seal BTC",
+            "symbol": "M-BTC",
+            "address": "0x1d22c0ab633f393c84a98cf4f2fad10ba47bb7b3",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg"
+        },
+        {
+            "name": "Mapped Bitcoin",
+            "symbol": "BTC",
+            "address": "0xb877e3562a660c7861117c2f1361a26abaf19beb",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btc.png"
+        },
+        {
+            "name": "iZUMi Bond USD",
+            "symbol": "iUSD",
+            "address": "0x61899ce1396ff351e5fdb9c8ad36fee9411c73c2",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/iusd.png"
+        },
+        {
+            "name": "STST (brc-20)",
+            "symbol": "STST",
+            "address": "0xf5a59f961a8e86285dae2e45ac4ae50e4e47ba97",
+            "chainId": 22776,
+            "decimals": 18,
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/stst.png"
         }
     ]
 }
